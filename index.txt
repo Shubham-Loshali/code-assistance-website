@@ -1,0 +1,211 @@
+TechTrailblaze  - We're here to elevate your marketing
+
+#---------- HEADER ----------#
+
+TechTrailblaze
+
+Home
+Services
+Project
+About Us
+Blog
+Contact Us
+
+Get Started
+
+aria-label = Toggle menu
+<ion-icon name="menu-outline" class="open"></ion-icon>
+<ion-icon name="close-outline" class="close"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+TechTrailblaze Marketing Agency
+
+We're here to elevate your marketing
+
+Elevate your brand with our tailored marketing solutions, designed to enhance your presence and drive resultsGet Started
+
+alt = hero banner
+
+
+
+#---------- SERVICE ----------#
+
+Services We Provided
+
+Empowering businesses with a comprehensive array of tailored marketing solutions to drive growth and maximize impact
+
+<ion-icon name="chatbox"></ion-icon>
+
+SEO Optimization
+
+Maximize your website's performance and climb the search engine ranks with our comprehensive SEO optimization services, designed to boost your online presence and attract qualified leads
+
+<ion-icon name="desktop"></ion-icon>
+Digital Marketing
+
+<ion-icon name="bulb"></ion-icon>
+Market Research
+
+<ion-icon name="phone-portrait"></ion-icon>
+Keyword Targeting
+
+<ion-icon name="archive"></ion-icon>
+Email Marketing
+
+<ion-icon name="build"></ion-icon>
+Marketing & Reporting
+
+
+
+#---------- PROJECT ----------#
+
+Our Recent Projects
+
+Discover our portfolio showcasing our latest innovative projects, where creativity meets results-driven solutions tailored to exceed client expectations
+
+alt = Designing a better cinema experience
+
+SEO Optimization
+
+Designing a better cinema experience
+
+View Details
+
+
+alt = Building design process within teams
+Digital Marketing
+
+alt = How intercom brings play into their design process
+Keyword Targeting
+
+alt = Stuck with to-do list, I created a new app for
+Email Marketing
+
+alt = Examples of different types of sprints
+Marketing & Reporting
+
+alt = Redesigning the New York times app
+Development
+
+
+
+#---------- ABOUT ----------#
+
+alt = about banner
+
+aria-label = Play video
+
+<ion-icon name="play" aria-hidden="true"></ion-icon>
+
+About Us
+
+Pioneering marketing solutions at the forefront of tech innovation, guiding businesses towards digital success with strategic expertise & creativity.
+
+Who We Are
+
+we are a dynamic team of creative minds and strategic thinkers dedicated to driving your brand's success through innovative marketing solutions tailored to your unique goals and vision.
+
+Our Success
+
+<ion-icon name="checkmark-circle" aria-hidden="true"></ion-icon>
+
+Delivering measurable ROI through data-driven marketing strategies.
+
+Building lasting client partnerships founded on trust and transparency.
+
+Constantly innovating to stay ahead in an ever-evolving digital landscape
+
+* Our Mission
+
+Our mission is to empower businesses with strategic marketing solutions, driving growth and fostering meaningful connections with their audiences through creativity, innovation, and integrity.At the heart of our mission lies a dedication to exceeding client expectations and positively impacting the communities we serve
+
+
+
+#---------- CTA ----------#
+
+So What's is the Next Step?
+
+Are You Ready? Let's get to Work!
+
+Get Started
+
+
+
+#---------- BLOG ----------#
+
+Latest Articles Updated Weekly
+
+Stay informed and inspired with our weekly updated articles covering the latest trends, insights, and strategies in the ever-evolving world of Marketing
+
+alt = How to Become a Successful Entry Level UX Designer
+
+Jan 16, 2022
+
+How to Become a Successful Entry Level UX Designer
+
+alt = 2022 Local SEO Success: The Year of Everywhere
+
+alt = The Guide to Running a Client Discovery Process
+
+alt = 3 Ways to Get Client Approval for Scope Changes
+
+alt = Top 21 Must-Read Blogs For Creative Agencies
+
+
+
+#---------- CONTACT ----------#
+
+Let's Contact With Us
+
+Connect with us today to kickstart your journey towards digital success with personalized solutions tailored to your unique needs
+
+aria-label = name
+placeholder = Your name*
+
+aria-label = email
+placeholder = Email address*
+
+aria-label = subject
+placeholder = Subject
+
+aria-label = phone
+placeholder = Phone number
+
+aria-label = message
+placeholder = Your message...*
+
+Accept Terms of Services and Privacy Policy
+
+Send Message
+
+<ion-icon name="mail-outline" aria-hidden="true"></ion-icon>
+
+Mail Here
+infor@TechTrailblaze.com
+infor@TechTrailblaze.com
+
+<ion-icon name="map-outline" aria-hidden="true"></ion-icon>
+
+Visit Here
+Okhla, Gaziyabaad,New Delhi 110095
+
+<ion-icon name="headset-outline" aria-hidden="true"></ion-icon>
+
+Call Here
++91 88007845XX
+011 257894XX
+
+
+
+#---------- FOOTER ----------#
+
+&copy; 2024 All Rights Reserved by TechTrailblaze
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+
+<ion-icon name="chevron-up" aria-hidden="true"></ion-icon>
