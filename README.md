@@ -93,11 +93,20 @@ The website is fully responsive and optimized for:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
 **Shubham Loshali**
 - GitHub: [@Shubham-Loshali](https://github.com/Shubham-Loshali)
 - Website: [Code Assistant](https://shubham-loshali.github.io/code-assistance-website/)
+
+**Kamal Singh**
+- GitHub: [@kamalkoranga](https://github.com/kamalkoranga)
+
+**Nitin Vishwakarma**
+- GitHub: [@nitingolu04](https://github.com/nitingolu04)
+
+**Sumit Deolia**
+- GitHub: [@sumitdeolia27](https://github.com/sumitdeolia27)
 
 ## 🤝 Contributing
 
