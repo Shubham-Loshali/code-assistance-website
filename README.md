@@ -14,7 +14,7 @@ A modern, responsive website for Code Assistant - a web development services com
 
 ## 🚀 Live Demo
 
-Visit the live website: [https://shubham-loshali.github.io/code-assistance-website/](https://shubham-loshali.github.io/code-assistance-website/)
+Visit the live website: [[https://shubham-loshali.github.io/code-assistance-website/](https://shubham-loshali.github.io/code-assistance-website/)](https://shubham-loshali.github.io/code-assistance-website/)
 
 ## 🛠️ Technologies Used
 
