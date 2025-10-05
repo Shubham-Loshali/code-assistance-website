@@ -51,6 +51,25 @@ code-assistance-website/
 - **Code Assistance**: Help with coding challenges and debugging
 - **Technical Consultation**: Expert advice on web technologies
 
+## 🔧 VS Code Extension
+
+**Code Assistant VS** - A smart coding helper extension for Visual Studio Code that assists developers in writing better code with real-time suggestions, explanations, and debugging help.
+
+### Extension Features:
+- **Smart Code Suggestions**: Get real-time recommendations to improve your code
+- **Code Explanation**: Select any block of code to get clear, concise explanations
+- **Error Detection**: Automatically detects and highlights possible coding errors
+- **Multi-language Support**: Works with Python, C, C++, Java, and JavaScript
+- **Beginner Friendly**: Helps new developers understand syntax and logic errors
+- **Clean and Simple UI**: Minimal interface that fits naturally inside VS Code
+
+### Installation:
+1. Open VS Code Quick Open (Ctrl+P)
+2. Paste: `ext install klka.code-assistantt`
+3. Press Enter to install
+
+**Download**: [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=klka.code-assistantt)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
